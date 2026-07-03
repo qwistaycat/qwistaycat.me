@@ -1,6 +1,6 @@
-import Clarity from '@microsoft/clarity';
-const projectId = "xewy12j17q"
-Clarity.init(projectId);
+// import Clarity from '@microsoft/clarity';
+// const projectId = "xewy12j17q"
+// Clarity.init(projectId);
 
 const menu = document.querySelector(".menu");
 const menuIcon = document.querySelector(".menu_dark");
